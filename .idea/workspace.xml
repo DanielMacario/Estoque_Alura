@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="237dd4c9-72c0-4e11-b7bb-8a3ce9888565" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Data/CaelumEstoque.DAO.EstoqueContext.mdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Data/CaelumEstoque.DAO.EstoqueContext_log.ldf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Data/DBEstoque.mdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Data/DBEstoque_log.ldf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Start/FilterConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Start/RouteConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaelumEstoque.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaelumEstoque.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Css/Site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/CategoriaController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/ContadorController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/LoginController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/ProdutoController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAO/CategoriasDAO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAO/EstoqueContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAO/ProdutosDAO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAO/UsuariosDAO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Filtros/AutorizacaoFilterAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Global.asax" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Global.asax.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/CategoriaDoProduto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Produto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Usuario.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery-1.10.2.intellisense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery.validate-vsdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Categoria/Form.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Categoria/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Contador/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Login/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Produto/Form.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Produto/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Produto/Visualiza.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web.Debug.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web.Release.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/CaelumEstoque.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/CaelumEstoque.dll.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/CaelumEstoque.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/EntityFramework.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/EntityFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Net.Http.Formatting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Net.Http.Formatting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Helpers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Helpers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Http.WebHost.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Http.WebHost.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Http.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Mvc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Webpages.Deployment.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Webpages.Deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Webpages.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Webpages.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Webpages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/System.Web.Webpages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/CaelumEstoque.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/CaelumEstoque.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/CaelumEstoque.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/CaelumEstoque.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Bz5PZvkh5Pk3r04G8qhXh54n9I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="237dd4c9-72c0-4e11-b7bb-8a3ce9888565" name="Default Changelist" comment="" />
+      <created>1657896059667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657896059667</updated>
+    </task>
+    <servers />
+  </component>
+</project>
